@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-CS 351 - Artificial Intelligence 
-Assignment 3
-
-Student 1: Ghani Haider gh05177
-Student 2: Maheen Khan mk04389
-"""
-
 from hashlib import sha1
 import numpy as np
 import math
