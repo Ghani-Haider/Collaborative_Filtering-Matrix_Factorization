@@ -1,4 +1,4 @@
-# Collaborative_Filtering-Matrix_Factorization
+# Collaborative Filtering : Matrix Factorization
 
 Implemented collaborative filtering to make recommendations to users U for items I. Used a model based approach that applies matrix factorization to factorize a rating matrix (𝑅) into User features (𝑃) and Item features (𝑄). Solution is implemented using gradient descent technique to perform matrix factorization. Given a rating matrix, the code applies matrix factorization to determine User features (P), Item features (Q), User bias vector (bu) and Item bias vector (bu).
 
